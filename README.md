@@ -1,12 +1,12 @@
 ## Hi there :wink:
 
 ### Want to know more about me ? If **YES** ? This are few things about ME!
-#### My Name is Massay Bah
-#### I love drinking :coffee:
-#### I am software developer and i love developing web apps
-#### I am a Gambian (The Gambia is in West Africa)
-#### I speak Englist :uk:
-#### I am a Gambian :house:(The Gambia is in West Africa)
+**My Name is Massay Bah**
+**I love drinking :coffee:**
+**I am software developer and i love developing web apps**
+**I am a Gambian (The Gambia is in West Africa)**
+**I speak Englist :uk:**
+**I am a Gambian :house:(The Gambia is in West Africa)**
 
 
 ### Some of my Skills Include:
