@@ -1,9 +1,11 @@
 ## Hi there :wink:
 
-### Want to know more about me ? If **YES** ? This are few things about ME!
-**My Name is Massay Bah** and i live in The Gambia **(West Africa)**
-### I am software developer and i love developing web apps
-### I speak English (:uk: ) and I love drinking :coffee:
+## Do you want to know more about me ? If **YES** ? 
+## A Few Things You Might Want to Know About Me include :
+
+  ### My Name is **Massay Bah** and i live in The Gambia **(West Africa)**
+  ### I am software developer and i love developing web apps
+  ### I speak English (:uk: ) and I love drinking :coffee:
 
 
 
@@ -20,7 +22,7 @@
 9. :white_check_mark: Microsoft Navision (2009)
 10. :white_check_mark: Laravel Livewire
 
-You can contact me via :email: **massaybah@gmail.com**
+You can contact me via on email :email: **massaybah@gmail.com**
 
 
 
