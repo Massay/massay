@@ -4,7 +4,7 @@
 ## A Few Things You Might Want to Know About Me include :
 
   ### My Name is **Massay Bah** and i live in The Gambia **(West Africa)**
-  ### I am software developer and i love developing web apps
+  ### I am a software developer and i love developing web apps
   ### I speak English (:uk: ) and I love drinking :coffee:
 
 
