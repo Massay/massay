@@ -1,8 +1,8 @@
 ## Hi there :wink:
 
 ### Want to know more about me ? If **YES** ? This are few things about ME!
-**My Name is Massay Bah** and i live in The Gambia **(West Africa)
-###I am software developer and i love developing web apps**
+**My Name is Massay Bah** and i live in The Gambia **(West Africa)**
+### I am software developer and i love developing web apps
 ### I speak English (:uk: ) and I love drinking :coffee:
 
 
