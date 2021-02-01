@@ -4,7 +4,8 @@
 #### My Name is Massay Bah
 #### I am software developer and i love developing web apps
 #### I am a Gambian (The Gambia is in West Africa)
-#### I am a Gambian (The Gambia is in West Africa)
+#### I speak Englist :uk:
+#### I am a Gambian :house:(The Gambia is in West Africa)
 
 
 ### Some of my Skills Include:
@@ -19,6 +20,8 @@
 8. :white_check_mark: Laravel
 9. :white_check_mark: Microsoft Navision (2009)
 10. :white_check_mark: Laravel Livewire
+
+:email: #### massaybah@gmail.com
 
 
 
