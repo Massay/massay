@@ -22,7 +22,7 @@
 9. :white_check_mark: Microsoft Navision (2009)
 10. :white_check_mark: Laravel Livewire
 
-You can contact me via on email :email: **massaybah@gmail.com**
+You can contact me via email :email: **massaybah@gmail.com**
 
 
 
